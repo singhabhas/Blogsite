@@ -1,4 +1,4 @@
-Writer's Paradise - A Content Management Tool System for Blogs
+Writer's Paradise - A Content Management Tool and System for Blogs
 
 - Built a captivating MERN stack blogging content management systtem and webite that allows users to create captivating blog posts, organize them into categories, and engage with readers through comments.
 
