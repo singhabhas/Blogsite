@@ -1,5 +1,23 @@
 Writer's Paradise - A Content Management Tool System for Blogs
 
+- Built a captivating MERN stack blogging content management systtem and webite that allows users to create captivating blog posts, organize them into categories, and engage with readers through comments.
+
+- Developed using React.js, Node.js, Express.js, MongoDB and MaterialUI leveraging the power of these technologies to ensure a seamless and efficient website.
+
+- Implemented secure user JWT authentication to protect user accounts and ensure a safe blogging experience.
+  
+- Used bcrypt to encrypt passwords stored in database.
+  
+- Designed with a responsive layout, providing an optimal user experience across various devices and screen sizes.
+  
+- Regularly updated to introduce new features, enhancements, and optimizations, ensuring continuous improvement of the website.
+  
+- Perfect for bloggers of all backgrounds, providing a platform to create captivating content, organize blogs, engage with readers, and enhance content with images.
+
+
+Skills: MongoDB · Express.js · Node.js · React.js
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -41,31 +59,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
